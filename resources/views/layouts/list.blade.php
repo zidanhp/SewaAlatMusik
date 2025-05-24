@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en" class="scroll-smooth">
 <head>
     <title>@yield('title', 'My App')</title>
     <script src="{{ asset('styles/tailwindcss3.4.1.js') }}"></script>
